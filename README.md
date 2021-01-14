@@ -5,3 +5,5 @@
 * npm start
 
 Credits: https://www.youtube.com/watch?v=ZGOaCxX8HIU
+<br>
+![Tetris](tetris.png)
